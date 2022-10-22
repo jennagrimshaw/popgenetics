@@ -3,7 +3,7 @@ DIR=<directory>
 
 cd $DIR
 
-INFO="<directory>ist.txt"
+INFO="<directory>/list.txt"
 
 echo $INFO
 
