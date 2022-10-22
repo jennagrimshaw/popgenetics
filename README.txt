@@ -6,8 +6,8 @@ You will need access to fastq files and reference genome file.
 # The steps will be as following:   
 Step 1: Create directory - list of folders needed.
 Step 2: Make list files - one file with all sample names and one file with all sample names and locations
-Step 3: AfterQC - Filter through raw reads for quality control
-Step 4: Index genome - using bwa and samtools
+Step 3: Index genome - using bwa and samtools
+Step 4: AfterQC - Filter through raw reads for quality control
 Step 5: Align reads to genome - using bwa and samtools
 Step 6: Stack sorted bamfiles - using gstacks from Stacks (Catchen)
 Step 7: Run populations - using populations from Stacks (Catchen)
