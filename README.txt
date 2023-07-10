@@ -19,5 +19,11 @@ Step 10: Run adegenet/hierfstat - using R
 - run 1-createdir.sh
 
 # Step 2: Make list files
-- run 2A-list.sh
-- run 2B-popmap.sh
+- run popmap.sh
+
+# Step 3: Index genome
+- run index.sh
+
+# Step 4: Quality control
+- run after30.sh
+- move all files from reads/good/* to after30/.
