@@ -27,3 +27,6 @@ Step 10: Run adegenet/hierfstat - using R
 # Step 4: Quality control
 - run after30.sh
 - move all files from reads/good/* to after30/.
+
+# Step 5: Align good reads
+- run align.sh
