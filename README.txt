@@ -30,3 +30,4 @@ Step 10: Run adegenet/hierfstat - using R
 
 # Step 5: Align good reads
 - run align.sh
+* this does try to use the 2nd column of the popmap (locations) and make files out of them which is stupid and annoying.  
