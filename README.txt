@@ -31,3 +31,11 @@ Step 10: Run adegenet/hierfstat - using R
 # Step 5: Align good reads
 - run align.sh
 * this does try to use the 2nd column of the popmap (locations) and make files out of them which is stupid and annoying.  
+
+# Step 6: Stacks
+- run stacks.sh
+* if you get an error of a malformed population map, this may be due to weird hidden characters.  The output will list which line is producing the error.  The proper format is sample ID followed by a tab and then the population designation:
+Sample 1  Pop
+If it looks like it is in proper format, delete and retype it and that should remove any weird hidden characters. 
+
+- run populations.sh
