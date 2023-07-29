@@ -45,3 +45,17 @@ If it looks like it is in proper format, delete and retype it and that should re
 6B: 
 - run B-populations.sh
 * This will take 45min to an hour
+
+# Step 7: Missing loci
+** !! R Script to find individuals with missing loci !! **
+
+# Step 8: Repeat Stacks
+- repeat populations.sh with remaining individuals
+
+# Step 9: Genomic Statistics
+
+# Step 10: DAPC
+
+# Step 11: fastStructure
+
+# Step 12: STRUCTURE
