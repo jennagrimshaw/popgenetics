@@ -53,6 +53,8 @@ If it looks like it is in proper format, delete and retype it and that should re
 - repeat populations.sh with remaining individuals
 
 # Step 9: Genomic Statistics
+- run pop-basicstats.R
+* This uses the populations.sumstats-summary.tsv file generated in Step 8
 
 # Step 10: DAPC
 
